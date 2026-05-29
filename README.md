@@ -60,3 +60,20 @@ See the screenshots uploaded in this repository.
 - Group Policy Management
 - Access Control
 - Security Administration
+
+## Screenshots
+
+### Active Directory Structure
+![AD Structure](ad-structure.png)
+
+### IT Admin Group Membership
+![IT Admins](it-admins-membership.png)
+
+### Password Policy
+![Password Policy](password-policy-gpo.png)
+
+### Domain Joined Workstation
+![Domain Joined](domain-joined-workstation.png)
+
+### Domain Authentication
+![Joshua Login](corp-joshua-login.png)
