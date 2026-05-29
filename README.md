@@ -2,7 +2,7 @@
 
 ## Overview
 
-Built and administered an Active Directory environment using Windows Server 2025 and Windows 11.
+Built and administered an Active Directory environment using Windows Server 2025 and Windows 11, including domain services, DNS, Group Policy, role-based access controls, and domain authentication.
 
 ## Technologies Used
 
